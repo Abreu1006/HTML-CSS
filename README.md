@@ -3,4 +3,4 @@
 
  ola 
 
- <a href= "https://abreu1006.github.io/HTML-CSS/> executar o exercicio 001 </a>
+ <a href= "https://abreu1006.github.io/HTML-CSS/exercicios/ex001/index.htm> executar o exercicio 001 </a>
